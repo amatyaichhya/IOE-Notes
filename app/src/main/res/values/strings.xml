@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IOE Notes</string>
+    <string-array name="query_suggestions">
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+    </string-array>
+</resources>
